@@ -27,7 +27,7 @@
 
 ### 🎡 Sobre Mim:
 
-Sou um desenvolvedor back-end com foco na **arquitetura de microserviços e desenvolvimento de APIs escaláveis** utilizando **Java e Spring Framework**. Tenho experiência na criação de sistemas distribuídos, implementando boas práticas como **SOLID, Clean Architecture e Domain-Driven Design (DDD)**.
+Sou um desenvolvedor back-end com foco na **arquitetura de microserviços e desenvolvimento de APIs escaláveis** utilizando **Java e Spring Framework**. Tenho experiência na criação de sistemas distribuídos, implementando boas práticas como **SOLID e Clean Architecture**.
 
 Atualmente, estou me aprofundando em **Spring Boot, Spring Cloud, Docker e Kubernetes** para desenvolver soluções resilientes e eficientes. Sou apaixonado por **desempenho, segurança e escalabilidade**, buscando sempre aprimorar minhas habilidades e contribuir para projetos inovadores.  🚀
 
