@@ -1,27 +1,45 @@
 ## Olá! Eu sou o Gustavo Alves 👋
 
-💻 **Desenvolvedor Back-End | Java & APIs RESTful**  
+💻 **Desenvolvedor Back-End | Java & Spring Framework**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Focado em **desenvolvimento web com Java e Spring Boot**  
-📍 Atualmente buscando oportunidades como **Dev Back-End Júnior**
+🚀 Focado em **desenvolvimento de microserviços com Java e Spring Boot**  
+📍 Atualmente buscando oportunidades como **Dev Back-End Júnior**  
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas:
 
-<p align="left"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
+  <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
+</p>
 
 ---
 
-### 🎯 Sobre Mim:
+### 🎡 Sobre Mim:
 
-Sou um desenvolvedor focado no **back-end**, apaixonado por **desenvolvimento de APIs RESTful e aplicações web** utilizando **Java, Kotlin e Spring Boot**. Tenho experiência na criação de aplicações escaláveis, utilizando boas práticas de código e princípios como SOLID e Clean Architecture. Estou sempre em busca de novos desafios e aprimoramento técnico para construir soluções eficientes e modernas. 🚀
+Sou um desenvolvedor back-end com foco na **arquitetura de microserviços e desenvolvimento de APIs escaláveis** utilizando **Java e Spring Framework**. Tenho experiência na criação de sistemas distribuídos, implementando boas práticas como **SOLID, Clean Architecture e Domain-Driven Design (DDD)**.
+
+Atualmente, estou me aprofundando em **Spring Boot, Spring Cloud, Docker e Kubernetes** para desenvolver soluções resilientes e eficientes. Sou apaixonado por **desempenho, segurança e escalabilidade**, buscando sempre aprimorar minhas habilidades e contribuir para projetos inovadores.  🚀
 
 ---
 
 ### 📫 Vamos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Alves-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-alves-8300b2302/)  
-[![GitHub](https://img.shields.io/badge/GitHub-gustavoalves-black?logo=github)](https://github.com/seu-usuario)  
+
 
 💬 Sempre aberto para trocar ideias sobre **desenvolvimento back-end, APIs RESTful e tecnologias web!**
+
